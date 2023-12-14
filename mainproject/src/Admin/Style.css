@@ -10,6 +10,9 @@
 .districtContainer{
     border: 1px solid;
 }
+.placeContainer{
+    border: 1px solid;
+}
 
 .row{
     display: flex;
@@ -28,6 +31,13 @@
     border-radius: 10px;
     border: none;
     background-color: aqua;
+}
+.col select{
+    width: 9.2rem;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: aqua
 }
 
 .btn{
